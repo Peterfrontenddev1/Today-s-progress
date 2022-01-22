@@ -1,4 +1,4 @@
-# Today-s-progress
+# Today's progress
 The frontend development learning journey
 
 I continued the css classes on freecodecamp.org.
